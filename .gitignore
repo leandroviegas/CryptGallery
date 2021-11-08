@@ -1,0 +1,13 @@
+cache/*
+!cache/.gitignore
+encrypt/*
+!encrypt/.gitignore
+images/*
+!images/.gitignore
+
+node_modules
+yarn-error.log
+package-lock.json
+yarn.lock
+encrypt.cmd
+run.cmd
